@@ -1,0 +1,2 @@
+retuve_nnunet_plugin/weights/hip-nnunet-us.zip filter=lfs diff=lfs merge=lfs -text
+retuve_nnunet_plugin/weights/hip-nnunet-xray.zip filter=lfs diff=lfs merge=lfs -text
